@@ -36,4 +36,3 @@ public:
 	//Update the player's location in the world
 	void updateCameraLocation(int deltaT);
 };
-
