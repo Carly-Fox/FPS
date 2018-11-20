@@ -8,7 +8,7 @@ Files in Repository:
 
 Final_Project.cpp: Main C++ File
 
-PlayerCamera: Contains variables and fucntions related to the first-person camera and the player's progress in-game
+PlayerCamera: Contains variables and fucntions related to the first-person camera and the player's in-game progress
 
 MovingTarget: Contains variables and functions related to the moving targets that spawn around the room
 
