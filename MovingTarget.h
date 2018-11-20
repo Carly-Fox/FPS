@@ -27,4 +27,3 @@ public:
 	//Update Target Position
 	void setTargetPos(int deltaT);
 };
-
