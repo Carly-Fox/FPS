@@ -3,7 +3,7 @@ FPS
 This project is a first-person shooter made using C++. The controls are similar to those in any modern first-person shooter. 
 The player can increase their score by shooting the targets around the room.
 
-A video of the current build of the game can be viewed here: https://www.youtube.com/watch?v=oyLDiCRqL4o&feature=youtu.be
+A video of the current build of the game can be viewed in my portfolio: https://www.carlyfox.net/copy-of-first-person-shooter
 
 External Libraries Used: Assimp, GLM, OpenGL, and SDL
 
