@@ -11,13 +11,13 @@ public:
 	//Number of times the player has shot the target
 	int hits;
 	//Target position
-	glm::vec3 translate;
+	glm::vec3 translate = glm::vec3(0.0f);
 	//Target Initial Position
 	glm::vec3 initPos;
 	//Target rotation
 	float rotate;
 	//Random target velocity
-	glm::vec3 speed;
+	glm::vec3 speed = glm::vec3(0.0f);
 
 	//Constructor
 	MovingTarget();

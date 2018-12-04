@@ -44,7 +44,7 @@ GLuint fbo_texture = -1;
 GLuint fbo;
 
 PlayerCamera player = PlayerCamera();
-MovingTarget target = MovingTarget();
+MovingTarget target = MovingTarget::MovingTarget();
 
 int totalTime = 0;
 

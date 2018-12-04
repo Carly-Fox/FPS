@@ -48,7 +48,7 @@ MovingTarget::~MovingTarget(){}
 
 //Update Target Position
 void MovingTarget::setTargetPos(int deltaT) {
-
+	
 	//Make sure target stays within Y boundaries of the room
 	if ((translate.y >= 2.0f && speed.y > 0.0f) || (translate.y <= 0.12f && speed.y < 0.0f)) {
 		speed.y = -speed.y;
